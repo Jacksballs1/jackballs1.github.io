@@ -1,3 +1,9 @@
 body {
     background-image: url("1234567890.jpg");
 }
+
+h1 {
+  font-family: "Hanalei Fill", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
